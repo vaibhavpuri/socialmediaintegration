@@ -1,0 +1,3 @@
+(node:33639) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+(node:33639) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+(node:33639) DeprecationWarning: collection.insert is deprecated. Use insertOne, insertMany or bulkWrite instead.
